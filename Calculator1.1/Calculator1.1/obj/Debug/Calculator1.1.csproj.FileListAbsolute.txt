@@ -1,0 +1,15 @@
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\bin\Debug\Calculator1.1.exe.config
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\bin\Debug\Calculator1.1.exe
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\bin\Debug\Calculator1.1.pdb
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\Calculator1.1.csprojAssemblyReference.cache
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\MainWindow.g.cs
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\App.g.cs
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\Calculator1.1_MarkupCompile.cache
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\Calculator1.1_MarkupCompile.lref
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\MainWindow.baml
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\Calculator1.1.g.resources
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\Calculator1._1.Properties.Resources.resources
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\Calculator1.1.csproj.GenerateResource.cache
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\Calculator1.1.csproj.CoreCompileInputs.cache
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\Calculator1.1.exe
+C:\Users\Lorena\source\repos\Calculator1.1\Calculator1.1\obj\Debug\Calculator1.1.pdb
